@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "579970466393",
+    "firebase_url": "https://pakmd-4b5a1.firebaseio.com",
+    "project_id": "pakmd-4b5a1",
+    "storage_bucket": "pakmd-4b5a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579970466393:android:63d4307bd93acdaddca748",
+        "android_client_info": {
+          "package_name": "com.kinzakarim.pakmd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "579970466393-himqilrufhgqgihoc7mj74joa1k1bjal.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kinzakarim.pakmd",
+            "certificate_hash": "336dd00b91c6dd59704e03b2537f591839535c76"
+          }
+        },
+        {
+          "client_id": "579970466393-upl9urf0ef9rfddkbjhfrnd0mv0uuth9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwl8b-LJw0hIcHwILi7ilKdirP8k8-Ors"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "579970466393-upl9urf0ef9rfddkbjhfrnd0mv0uuth9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

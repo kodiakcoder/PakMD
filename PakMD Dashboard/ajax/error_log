@@ -1,0 +1,30 @@
+[23-Sep-2019 10:27:49 America/Detroit] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/karimkre/public_html/karimdesigns/application/config.php on line 2
+[23-Sep-2019 10:27:49 America/Detroit] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/karimkre/public_html/karimdesigns/ajax/insert_notify.php on line 13
+[23-Sep-2019 10:27:49 America/Detroit] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/karimkre/public_html/karimdesigns/ajax/insert_notify.php on line 16
+[23-Sep-2019 10:33:29 America/Detroit] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/karimkre/public_html/karimdesigns/application/config.php on line 2
+[23-Sep-2019 10:33:29 America/Detroit] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/karimkre/public_html/karimdesigns/ajax/insert_notify.php on line 13
+[23-Sep-2019 10:33:29 America/Detroit] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/karimkre/public_html/karimdesigns/ajax/insert_notify.php on line 16
+[23-Sep-2019 10:33:54 America/Detroit] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/karimkre/public_html/karimdesigns/application/config.php on line 2
+[23-Sep-2019 10:33:54 America/Detroit] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/karimkre/public_html/karimdesigns/ajax/insert_notify.php on line 13
+[23-Sep-2019 10:33:54 America/Detroit] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/karimkre/public_html/karimdesigns/ajax/insert_notify.php on line 16
+[30-Sep-2019 09:38:44 America/Detroit] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'karimkre_appdb.clinic_bookapointment' doesn't exist in /home/karimkre/public_html/karimdesigns/controllers/ajaxcontroler.php:128
+Stack trace:
+#0 /home/karimkre/public_html/karimdesigns/controllers/ajaxcontroler.php(128): PDOStatement->execute()
+#1 /home/karimkre/public_html/karimdesigns/ajax/deletespecialitites.php(26): ajaxcontroler->deletereviewandapoinment('1')
+#2 {main}
+  thrown in /home/karimkre/public_html/karimdesigns/controllers/ajaxcontroler.php on line 128
+[30-Sep-2019 10:00:06 America/Detroit] PHP Fatal error:  Uncaught Error: Call to undefined method ajaxcontroler::removereviewandapoinment() in /home/karimkre/public_html/karimdesigns/ajax/deletemobileuser.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/karimkre/public_html/karimdesigns/ajax/deletemobileuser.php on line 18
+[30-Sep-2019 10:00:12 America/Detroit] PHP Fatal error:  Uncaught Error: Call to undefined method ajaxcontroler::removereviewandapoinment() in /home/karimkre/public_html/karimdesigns/ajax/deletemobileuser.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/karimkre/public_html/karimdesigns/ajax/deletemobileuser.php on line 18
+[30-Sep-2019 10:00:14 America/Detroit] PHP Fatal error:  Uncaught Error: Call to undefined method ajaxcontroler::removereviewandapoinment() in /home/karimkre/public_html/karimdesigns/ajax/deletemobileuser.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/karimkre/public_html/karimdesigns/ajax/deletemobileuser.php on line 18
+[30-Sep-2019 10:01:07 America/Detroit] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/karimkre/public_html/karimdesigns/application/config.php on line 2
+[30-Sep-2019 10:01:07 America/Detroit] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/karimkre/public_html/karimdesigns/ajax/insert_notify.php on line 13
+[30-Sep-2019 10:01:07 America/Detroit] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/karimkre/public_html/karimdesigns/ajax/insert_notify.php on line 16
